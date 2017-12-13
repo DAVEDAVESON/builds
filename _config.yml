@@ -2,5 +2,5 @@ theme: jekyll-theme-tactile
 title: Group02 DAVE website
 subtitle: DAVE
 description: Apple and Windows builds
-favicon: logo1.png
-sitelogo: logo1.png
+favicon: /logo1.png
+sitelogo: /logo1.png
