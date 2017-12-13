@@ -1,6 +1,6 @@
 ### Please select your OS and the download will start
-![Image](apple.PNG)
-[zip](dave_apple.zip)
+![Image](images/apple.PNG)
+[zip](builds/dave_apple.zip)
 
-![Image](win.PNG)
-[zip](dave_win.zip)
+![Image](images/win.PNG)
+[zip](builds/dave_win.zip)
