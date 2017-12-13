@@ -10,4 +10,4 @@
 [Download](builds/dave_win.zip)
 
 ## User Manual
-[Download](user_manual/manual.zip)
+[Download](user_manual/manual.pdf)
