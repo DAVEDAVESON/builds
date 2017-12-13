@@ -12,7 +12,7 @@ Press 'Download' for the build targeting the operation system you wish to run DA
 ***  
 
 ## User Manual
-Press 'Download' to read DAVE's user manual
+Press 'Download' to get a copy of DAVE's user manual
 
 | ![Image](images/pdf.jpg)                |
 |:-------------:|
