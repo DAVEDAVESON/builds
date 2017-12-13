@@ -1,7 +1,7 @@
 # DAVE
 ### Please select your OS and the download will start
 ![Image](apple.PNG)
-[zip](dave_apple.zip)
+[Download](dave_apple.zip)
 
 ![Image](win.PNG)
-[zip](dave_win.zip)
+[Download](dave_win.zip)
