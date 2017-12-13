@@ -1,5 +1,3 @@
-# DAVE
-
 ## Builds
 Please select your OS and the download will start
 
@@ -8,6 +6,8 @@ Please select your OS and the download will start
 
 ![Image](images/win.png)
 [Download](builds/dave_win.zip)
+
+***
 
 ## User Manual
 [Download](user_manual/manual.pdf)
