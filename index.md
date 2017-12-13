@@ -2,7 +2,7 @@
 ***  
 
 ## Builds
-Please select your OS and the download will start
+Press 'Download' for the build targeting the operation system you wish to run DAVE on
 
 | ![Image](images/apple.png)                |                ![Image](images/win.png) |
 |-------------|:-------------:|
@@ -12,4 +12,5 @@ Please select your OS and the download will start
 ***  
 
 ## User Manual
+Press 'Download' to read DAVE's user manual
 [Download (702 KB)](um/manual.pdf)
