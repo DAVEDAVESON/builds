@@ -3,8 +3,7 @@
 
 ### Please select your OS and the download will start
 ![Image](apple.PNG)
-[zip](url)
+[zip](dave_apple.zip)
 
 ![Image](win.PNG)
-[zip](url)
-
+[zip](dave_win.zip)
