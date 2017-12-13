@@ -13,4 +13,4 @@ Please select your OS and the download will start
 ***  
 
 ## User Manual
-[Download (702 KB)](user_manual/user_manual.pdf)
+[Download (702 KB)](um/manual.pdf)
