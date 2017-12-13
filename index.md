@@ -4,11 +4,10 @@
 ## Builds
 Please select your OS and the download will start
 
-![Image](images/apple.png)
-[Download (25 MB)](builds/dave_apple.zip)
+| ![Image](images/apple.png)                |                ![Image](images/win.png) |
+|-------------|:-------------:|
+| [Download (25 MB)](builds/dave_apple.zip) | [Download (25 MB)](builds/dave_win.zip) |
 
-![Image](images/win.png)
-[Download (25 MB)](builds/dave_win.zip)
 
 ***  
 
