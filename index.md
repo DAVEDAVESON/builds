@@ -12,5 +12,5 @@ Press 'Download' for the build targeting the operation system you wish to run DA
 ***  
 
 ## User Manual
-Press 'Download' to read DAVE's user manual
+Press 'Download' to read DAVE's user manual  
 [Download (702 KB)](um/manual.pdf)
