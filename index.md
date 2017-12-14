@@ -6,7 +6,7 @@ Press 'Download' for the build targeting the operation system you wish to run DA
 
 | ![Image](images/apple.png)                |                ![Image](images/win.png) |
 |-------------|:-------------:|
-| [Download (40 400 KB)](builds/dave_apple.zip) | [Download (37 679 MB)](builds/dave_win.zip) |
+| [Download (40 400 KB)](builds/dave_apple.zip) | [Download (37 679 MB)](builds/dave_win1.zip) |
 
 
 ***  
